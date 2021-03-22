@@ -1,6 +1,6 @@
 # mac-setup using brew
 
-Foobar is a Python library for dealing with word pluralization.
+Necessary files for my daily use.
 
 ## Requirements
 
