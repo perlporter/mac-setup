@@ -11,56 +11,56 @@ tap "homebrew/core"
 tap "muesli/tap"
 
 # packages
-brew "ansible"					# 
-brew "bat"						# cat alternative
-brew "bpytop"					# top alternative
-brew "cloc"						# count code lines
-brew "curl"						# transfer a URL
-brew "duf"						# df alternative
-brew "dos2unix" 				# convert file DOS to unix
+brew "ansible"                  # 
+brew "bat"                      # cat alternative
+brew "bpytop"                   # top alternative
+brew "cloc"                     # count code lines
+brew "curl"                     # transfer a URL
+brew "duf"                      # df alternative
+brew "dos2unix"                 # convert file DOS to unix
 brew "esptool"
-brew "ffmpeg"					# video converter
-brew "fortune"					# print a random quotes
-brew "git"						# newer version of Git
-brew "gnupg"					# 
-brew "grep"						# GNU grep - ggrep
-brew "htop"						# top alternative
-brew "lazydocker"				#
-brew "lazygit"					#
-brew "lsd"						# ls alternative
-brew "mas"						# install apps Mac App Store
-brew "neofetch"					# command-line system information
-brew "noti"						# trigger a notification
-brew "node"						#
-brew "python"					#
-brew "pyenv"					#
-brew "pyenv-virtualenv"			#
+brew "ffmpeg"                   # video converter
+brew "fortune"                  # print a random quotes
+brew "git"                      # newer version of Git
+brew "gnupg"                    # 
+brew "grep"                     # GNU grep - ggrep
+brew "htop"                     # top alternative
+brew "lazydocker"               #
+brew "lazygit"                  #
+brew "lsd"                      # ls alternative
+brew "mas"                      # install apps Mac App Store
+brew "neofetch"                 # command-line system information
+brew "noti"                     # trigger a notification
+brew "node"                     #
+brew "python"                   #
+brew "pyenv"                    #
+brew "pyenv-virtualenv"         #
 brew "platformio"
-brew "shellcheck"				# Shell script analysis tool
-brew "speedtest-cli"			# testing internet bandwidth
-brew "telnet"					# user interface TELNET protocol
-brew "thefuck"					#	
-brew "tmux"						# terminal multiplexer
-brew "tree"						# lists contents in a tree-like format
-brew "vim"						# Vi IMproved
-brew "wget"						# the nono-interactive network downloader
-brew "youtube-dl"				# downlod videos from youtube or other platforms
-brew "xz"						# compress or decompress .xz files
-brew "zsh"						# newer version of ZSH
-brew "zsh-syntax-highlighting"	#
+brew "shellcheck"               # Shell script analysis tool
+brew "speedtest-cli"            # testing internet bandwidth
+brew "telnet"                   # user interface TELNET protocol
+brew "thefuck"                  #   
+brew "tmux"                     # terminal multiplexer
+brew "tree"                     # lists contents in a tree-like format
+brew "vim"                      # Vi IMproved
+brew "wget"                     # the nono-interactive network downloader
+brew "youtube-dl"               # downlod videos from youtube or other platforms
+brew "xz"                       # compress or decompress .xz files
+brew "zsh"                      # newer version of ZSH
+brew "zsh-syntax-highlighting"  #
 
 # casks
 cask "audio-hijack" 
 cask "alfred"
 cask "anydesk"
-cask "backblaze"  ## NOT INSTALL
+cask "backblaze"                ## NOT INSTALL
 cask "balenaetcher"
 cask "bartender"
 cask "deepl"
 cask "discord"
 cask "docker"
 cask "iterm2"
-cask "intel-power-gadget"   ## NEEDS PASSWORD
+cask "intel-power-gadget"       ## NEEDS PASSWORD
 cask "istat-menus"
 cask "gemini"
 cask "keycastr"
@@ -78,7 +78,7 @@ cask "font-cascadia-mono"
 cask "font-3270-nerd-font"
 cask "font-hack-nerd-font"
 cask "texpad"
-cask "mactex-no-gui"   ## NEEDS PASSWORD
+cask "mactex-no-gui"            ## NEEDS PASSWORD
 cask "xscreensaver"
 
 # macOS App Store
